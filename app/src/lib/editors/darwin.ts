@@ -56,6 +56,10 @@ const editors: IDarwinExternalEditor[] = [
     bundleIdentifiers: ['com.barebones.bbedit'],
   },
   {
+    name: 'CLion',
+    bundleIdentifiers: ['com.jetbrains.CLion'],
+  },
+  {
     name: 'PhpStorm',
     bundleIdentifiers: ['com.jetbrains.PhpStorm'],
   },
